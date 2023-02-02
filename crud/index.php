@@ -23,20 +23,20 @@
     <div class="widget-container">
       <div class="tab-container">
         <div class="tab-list" role="tablist">
-          <button role="tab" class="tab active" aria-controls="tab-content-01" id="tab-01" tabindex="0" aria-selected="true"><span>LSD</span></button>
-          <button role="tab" class="tab" aria-controls="tab-content-02" id="tab-02" tabindex="0" aria-selected="false"><span>DMT</span></button>
-          <button role="tab" class="tab" aria-controls="tab-content-03" id="tab-03" tabindex="0" aria-selected="false"><span>2C-B</span></button>
+          <button role="tab" class="tab active" aria-controls="tab-content-01" id="tab-01" tabindex="0" aria-selected="true"><span>buku</span></button>
+          <button role="tab" class="tab" aria-controls="tab-content-02" id="tab-02" tabindex="0" aria-selected="false"><span>penerbit</span></button>
+          <button role="tab" class="tab" aria-controls="tab-content-03" id="tab-03" tabindex="0" aria-selected="false"><span>pengarang</span></button>
           <div class="follow"></div>
         </div>
         <div class="tab-content-wrapper">
           <div class="tab-content tab-active" id="tab-content-01" hidden tabindex="0" role="tabpanel" aria-labelledby="tab-01">
-            <h2>2C-B</h2>
+            <h2>buku</h2>
 
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis rerum repudiandae illum ipsam</p>
             <img src="https://images.unsplash.com/photo-1526553144644-bd9d59da0e76?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"/>
           </div>
           <div class="tab-content" id="tab-content-02" hidden tabindex="0" role="tabpanel" aria-labelledby="tab-02">
-            <h2>DMT</h2>
+            <h2>penerbit</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing               elit. Corrupti fuga nostrum 
             </P>
@@ -44,7 +44,7 @@
                 <img src="https://images.unsplash.com/photo-1517928260182-5688aead3066?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"/>
           </div>
           <div class="tab-content" id="tab-content-03" hidden tabindex="0" role="tabpanel" aria-labelledby="tab-03">
-            <h2>2C-B</h2>
+            <h2>pengarang</h2>
                   <p>
               Lorem ipsum dolor sit amet consectetur adipisicing               elit. Corrupti fuga nostrum 
             </P>
